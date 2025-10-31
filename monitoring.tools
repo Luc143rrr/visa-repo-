@@ -1,2 +1,3 @@
 echo "new relic"
 echo "graffana"
+echo "prometheus"
