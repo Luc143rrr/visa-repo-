@@ -6,3 +6,4 @@ echo "merge issue"
 echo "deploy in the dev env"
 echo "deployment 5"
 deployment4
+deploy to staging
